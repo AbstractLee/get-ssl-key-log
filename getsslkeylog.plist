@@ -1,7 +1,7 @@
 {
 	Filter = {
-		Executables = (
-            "apsd"  
+		Bundles = (
+			"com.apple.UIKit",
 		);
 	};
 }
